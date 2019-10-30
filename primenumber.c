@@ -14,7 +14,7 @@ int main()
     }
     if (n == 1) 
     {
-      printf("1 is neither a prime nor a composite number.");
+      printf("One is neither a prime nor a composite number.");
     }
     else 
     {
